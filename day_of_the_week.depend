@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602627705 source:/home/anonymous/Desktop/cpp_2020/day_of_the_week/day_of_the_week.cpp
+	<iostream>
+	<string>
+	<regex>
+
